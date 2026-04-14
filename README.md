@@ -26,9 +26,9 @@ fyx init
 ### Browse a tool's commands interactively
 
 ```sh
-fyx kubectl
-fyx terraform
-fyx docker
+fyx browse kubectl
+fyx browse terraform
+fyx browse docker
 ```
 
 ### Refresh PATH after installing a new tool
